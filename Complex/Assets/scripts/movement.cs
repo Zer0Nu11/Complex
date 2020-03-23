@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class movement : MonoBehaviour
 {
-    float speed = 10f;
+    public float speed = 10f;
     public Vector3 velocity;
 
     public Transform groundCheck;
